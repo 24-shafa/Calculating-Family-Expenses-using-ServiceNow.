@@ -18,4 +18,4 @@ https://dev276713.service-now.com/now/nav/ui/classic/params/target/ui_page.do%3F
 
 Demo Video Link:
 
-https://dev276713.service-now.com/now/nav/ui/classic/params/target/ui_page.do%3Fsys_id%3D2daef827c3343210dc481173e40131a6
+https://drive.google.com/file/d/1LBc9WUHG9lUY-C9zjhZ-geBegkFPj46Y/view?usp=drivesdk
